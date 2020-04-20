@@ -1,7 +1,6 @@
 import java.util.*;
 
 class Department {
-//    test revert 1
 
     /**
     * @param departments массив строк исходных кодов подразделений
