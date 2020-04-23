@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Department {
-
+// Test commit
     /**
     * @param departments массив строк исходных кодов подразделений
     * @return массив строк отсортированных и дополненных кодов подразделений
